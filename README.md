@@ -1,2 +1,0 @@
-# notiverse
-Note taking app
